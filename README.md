@@ -62,7 +62,7 @@ Because I did not use an OpenAI API key, I evaluated the generator manually by c
 | MRR | 0.06 | 0.43 |
 | Groundedness | 0.00% | 22.22% |
 | Factual Accuracy | 0.00% | 22.22% |
-| Hallucination Rate | 100.00% | 77.78% |
+| Hallucination Rate | 100.00% | 77.78% | 
 
 ## Results Summary
 
