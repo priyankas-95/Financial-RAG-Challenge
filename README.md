@@ -6,6 +6,8 @@ This project builds and evaluates a Retrieval-Augmented Generation (RAG) system 
 
 The goal was to compare a simple baseline RAG system with an engineered RAG system for financial question answering.
 
+This project was completed in Google Colab. The notebook can be opened and rerun in Colab after installing the required packages and logging into Hugging Face to access the OfficeQA dataset.
+
 ## Recent Years Used
 
 I used Treasury Bulletin files from:
