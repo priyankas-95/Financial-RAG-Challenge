@@ -72,7 +72,7 @@ Generation performance was still challenging because many questions required val
 
 ## Files Included
 
-- `notebooks/financial_rag_challenge.ipynb`: Main notebook
+- `notebook/OfficeQA_Financial_RAG_Challenge.ipynb`: Main notebook
 - `results/final_scorecard.csv`: Final scorecard
 - `results/baseline_retriever_details.csv`: Baseline retriever details
 - `results/engineered_retriever_details.csv`: Engineered retriever details
