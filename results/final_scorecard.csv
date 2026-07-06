@@ -1,0 +1,6 @@
+Metric,Baseline (Simple),Engineered (Improved)
+Hit Rate (K=5),11.11%,66.67%
+MRR,0.06,0.43
+Groundedness,0.00%,22.22%
+Factual Accuracy,0.00%,22.22%
+Hallucination Rate,100.00%,77.78%
