@@ -44,7 +44,7 @@ The engineered system used:
 ## Evaluation Metrics
 
 Retriever metrics:
-- Hit Rate@5
+- Hit Rate (k=5)
 - Mean Reciprocal Rank (MRR)
 
 Generator metrics:
