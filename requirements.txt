@@ -1,1 +1,8 @@
-
+datasets
+huggingface_hub
+chromadb
+sentence-transformers
+langchain-text-splitters
+pandas
+tqdm
+numpy
